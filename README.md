@@ -1,4 +1,4 @@
-# Hi there, I'm Dev Gurung 👋
+# Hi there!
 
 Welcome to this GitHub! This space holds the code for Mobile and Web App Development, featuring demo applications prepared during workshop sessions and pre-prepared lesson versions. 
 
