@@ -8,8 +8,11 @@ Welcome to this GitHub! This space holds the code for Mobile and Web App Develop
 * **Mobile Development:** Android App Development (Java)
 * **Web Development:** Vue.js, HTML, CSS
 * **Backend Development:** Flask, MongoDB, SQLite (Room / SQLiteOpenHelper)
+* **LLM implementation**
 
 ---
+
+Another github: https://github.com/sit3057082025 
 
 ### 📱 Android Concepts (Java)
 
