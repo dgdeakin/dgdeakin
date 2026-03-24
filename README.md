@@ -1,6 +1,8 @@
 # Hi there, I'm Dev Gurung 👋
 
-Welcome to my GitHub! This space holds the code for Mobile and Web App Development, featuring demo applications prepared during workshop sessions and pre-prepared lesson versions. (This is not OFFICIAL resources)
+Welcome to my GitHub! This space holds the code for Mobile and Web App Development, featuring demo applications prepared during workshop sessions and pre-prepared lesson versions. 
+
+> ⚠️ **Disclaimer:** This is an unofficial resource created for workshop demonstrations.
 
 ### 🛠️ Main Platforms & Tech Stack
 * **Mobile Development:** Android App Development (Java)
