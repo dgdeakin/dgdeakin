@@ -61,15 +61,5 @@ Welcome to my GitHub! This space holds the code for Mobile and Web App Developme
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dgdeakin&show_icons=true&theme=radium&hide_border=true" alt="Dev's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgdeakin&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ### 📫 Let's Connect!
 *Feel free to explore my repositories, fork my demo projects, or reach out if you want to collaborate on mobile and web development!*
